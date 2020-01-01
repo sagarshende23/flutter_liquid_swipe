@@ -18,7 +18,7 @@
  
 </p>
 <p align="center">
- liquid Swipe animation is amazing and its Created for iOS Platform and for React Native Platform. this animation Or Liquid Swipe Animation.
+ liquid Swipe animation is amazing and its Created for iOS Platform and for React Native Platform. Open Source Code for Liquid Swipe Animation 
   </p>
 
 ## 📱 What we're going to Build #
