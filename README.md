@@ -25,6 +25,15 @@
 
 <img src="https://raw.githubusercontent.com/sagarshende23/flutter_liquid_swipe/master/liquid%20swipe%20flutter.gif" width="1100">
 
+<h2 align="center">
+    <br>
+  Download the Following App for Preview 
+  <br>
+</h2>
+<p align="center">
+<a href="https://api.codemagic.io/artifacts/60b0ea01-bded-43b7-8503-58f1d3bd60e3/60222af2-8e2b-4b7a-988e-e08d33805a66/app-release.apk" title="Image from PNG Image"><img src="https://pngimage.net/wp-content/uploads/2018/05/download-android-app-png-4.png" height=85px width=350px alt="download android app png 4"></a>
+</p>
+
 # 💻Written Tutorial
 Flutter Liquid Swipe Tutorial:- https://alltechsavvy.com/liquid-swipe-animation-in-flutter/
 
