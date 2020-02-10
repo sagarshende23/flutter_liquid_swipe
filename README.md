@@ -31,7 +31,7 @@
   <br>
 </h2>
 <p align="center">
-<a href="https://api.codemagic.io/artifacts/60b0ea01-bded-43b7-8503-58f1d3bd60e3/60222af2-8e2b-4b7a-988e-e08d33805a66/app-release.apk" title="Image from PNG Image"><img src="https://pngimage.net/wp-content/uploads/2018/05/download-android-app-png-4.png" height=85px width=350px alt="download android app png 4"></a>
+<a href="https://api.codemagic.io/artifacts/35259e28-db52-4842-ada5-10ed73f0c287/0cf3c5b5-f314-4ffd-89fe-1ba472cdb5ce/app-release.apk" title="Image from PNG Image"><img src="https://pngimage.net/wp-content/uploads/2018/05/download-android-app-png-4.png" height=85px width=350px alt="download android app png 4"></a>
 </p>
 
 # 💻Written Tutorial
