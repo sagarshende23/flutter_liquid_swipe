@@ -57,6 +57,12 @@ liquid_swipe: https://github.com/iamSahdeep/liquid_swipe_flutter
 * [Android Studio](https://developer.android.com/studio/index.html/) - Tools for building Awesome apps on every type of Android device.
 * [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
 
+## 🔌 Plugins
+| Name | Usage |
+|------|-------|
+|[**Liquid Swipe**](https://pub.dev/packages/liquid_swipe)| Liquid Swipe For Animation|
+
+
 
 ## 🤝 Show Some Support #
 ###### If you 👍 the project, do not forget ⭐️ me Stay tuned for the latest updates [Follow me](https://github.com/sagarshende23) 🤙
