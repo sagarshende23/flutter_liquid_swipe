@@ -36,7 +36,7 @@
 <a href="https://api.codemagic.io/artifacts/35259e28-db52-4842-ada5-10ed73f0c287/0cf3c5b5-f314-4ffd-89fe-1ba472cdb5ce/app-release.apk" title="Image from PNG Image"><img src="https://i.imgur.com/srMcFcx.png" height="115"width="300" alt="download android app png 4"></a>
 </p>
 
-# 💻Written Tutorial
+## 💻 Written Tutorial
 Flutter Liquid Swipe Tutorial:- https://alltechsavvy.com/liquid-swipe-animation-in-flutter/
 
 
@@ -51,8 +51,6 @@ Design Credit : https://dribbble.com/shots/5813405-Liquid-Swipe-Open-Source
   <img src="https://itsallwidgets.com/screenshots/app-1253-2.png?updated_at=2020-01-01%2006:01:53" width="250" hspace="8">
 </p>
 
-## Package Used
-liquid_swipe: https://github.com/iamSahdeep/liquid_swipe_flutter
 
 ## ⚙️ Built with Amazing Tools
 * [Flutter](https://flutter.dev/) - Beautiful native apps in record time.
@@ -72,6 +70,21 @@ liquid_swipe: https://github.com/iamSahdeep/liquid_swipe_flutter
 
 ## 🐛 Bugs/Requests #
 If you encounter any problems feel free to open an issue. If you feel the library is missing a feature, please raise a ticket on Github and I'll look into it. Pull request are also welcome.
+
+## 🎉 Social Media Links
+
+
+[<img align="center" alt="sagarshende | Twitter" width="40" src="https://image.flaticon.com/icons/svg/174/174876.svg" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsagarshende95&screen_name=SagarShende95)&ensp;Twitter: [@sagarshende95](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsagarshende95&screen_name=SagarShende95)
+
+[<img align="center" alt="sagarshende | LinkedIn" width="40" src="https://image.flaticon.com/icons/svg/174/174857.svg" />](https://linkedin.com/in/sagarshende "Linkedin Sagar Shende")&ensp;Linkedin: [@SagarShende](https://linkedin.com/in/sagarshende "Linkedin Sagar Shende")
+
+[<img align="center" alt="SagarShende | Medium" width="40" src="https://image.flaticon.com/icons/svg/174/174858.svg" />](https://medium.com/@SagarShende "Medium Sagar Shende")&ensp;Medium: [@SagarShende](https://medium.com/@SagarShende "Medium Sagar Shende")
+
+[<img align="center" alt="AllTechSavvy | Medium" width="50" src="https://image.flaticon.com/icons/svg/733/733590.svg" />](https://www.youtube.com/alltechsavvy "YouTube AllTechSavvy")&ensp;YouTube:  [@AllTechSavvy](https://www.youtube.com/alltechsavvy "AllTechSavvy AllTechSavvy")
+
+[<img align="center" alt="SagarShende | Medium" width="40" src="https://image.flaticon.com/icons/svg/1409/1409946.svg" />](https://www.instagram.com/sagarshende95 "Instagram Sagar Shende")&ensp;Instagram: [@SagarShende](https://www.instagram.com/sagarshende95/ "Medium Sagar Shende")
+
+
 
 ## 💰 Donation
 
